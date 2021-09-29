@@ -1,1 +1,1 @@
-<?php include_once('./gymflavor.html'); ?>
+<?php include_once('./index.html') ?>
