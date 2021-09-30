@@ -36,4 +36,29 @@
         text-align: center !important;
         margin: 0 auto;
     }
-    
+    .arrival 
+    {
+        text-align: center;
+        font-size: xx-large;
+        margin: 70px;
+        margin-bottom: 20px;
+    }
+    .row img
+    {
+        padding: 10px;
+        height: 500px;
+        
+        display: inline-block;
+    }
+    .column {
+        width: 50%;
+        padding: 5px;
+      }
+      footer {
+          
+        text-align: center;
+        padding: 10px;
+        background-color:lightgray;
+        color: rgb(19, 9, 9);
+      }
+      
